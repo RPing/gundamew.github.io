@@ -1,0 +1,3 @@
+[submodule "themes/daily"]
+	path = themes/daily
+	url = git@github.com:gundamew/hexo-theme-Daily.git
